@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this software/data, please cite it as below."
+title: "Caracciolo_et_al_2026_CumbreVieja: Supplementary data for the article 'Recurrent evacuation of mantle mush by mafic recharge in ocean islands revealed by clinopyroxene from La Palma'"
+type: software
+version: 1.0.2
+date-released: 2026-07-01
+authors:
+  - family-names: "Caracciolo"
+    given-names: "Alberto"
+  - family-names: "Ubide"
+    given-names: "Teresa"
+  - family-names: "Ágreda-López"
+    given-names: "Mónica"
+  - family-names: "Herrera"
+    given-names: "Raquel"
+  - family-names: "Márquez"
+    given-names: "Álvaro"
+  - family-names: "González-García"
+    given-names: "Diego"
+  - family-names: "Huertas"
+    given-names: "María José"
+  - family-names: "Ancochea"
+    given-names: "Eumenio"
+  - family-names: "Chicharro"
+    given-names: "Nicolás"
+  - family-names: "Coello-Bravo"
+    given-names: "Juan Jesús"
+  - family-names: "Petrelli"
+    given-names: "Maurizio"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.21081067
+    description: "Zenodo archive (concept/version DOI as applicable)"
+repository-code: "https://github.com/AlbCaracc/Caracciolo_et_al_2026_CumbreVieja"
+license: CC-BY-4.0
+preferred-citation:
+  type: article
+  title: "Recurrent evacuation of mantle mush by mafic recharge in ocean islands revealed by clinopyroxene from La Palma"
+  authors:
+    - family-names: "Caracciolo"
+      given-names: "Alberto"
+    - family-names: "Ubide"
+      given-names: "Teresa"
+    - family-names: "Ágreda-López"
+      given-names: "Mónica"
+    - family-names: "Herrera"
+      given-names: "Raquel"
+    - family-names: "Márquez"
+      given-names: "Álvaro"
+    - family-names: "González-García"
+      given-names: "Diego"
+    - family-names: "Huertas"
+      given-names: "María José"
+    - family-names: "Ancochea"
+      given-names: "Eumenio"
+    - family-names: "Chicharro"
+      given-names: "Nicolás"
+    - family-names: "Coello-Bravo"
+      given-names: "Juan Jesús"
+    - family-names: "Petrelli"
+      given-names: "Maurizio"
+  status: "in-review"
